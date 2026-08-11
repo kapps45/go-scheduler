@@ -50,3 +50,8 @@ Thumbs.db
 logs/
 .cache/
 tmp/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
